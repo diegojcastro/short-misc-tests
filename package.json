@@ -1,0 +1,23 @@
+{
+  "name": "short-misc-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kanye.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegojcastro/short-misc-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegojcastro/short-misc-tests/issues"
+  },
+  "homepage": "https://github.com/diegojcastro/short-misc-tests#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
